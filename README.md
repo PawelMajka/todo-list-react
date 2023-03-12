@@ -16,7 +16,9 @@ The task list allows you to add new tasks, mark them as done and / or remove the
 - ES6+ Features
 - Grid
 - Immutability
-- React
+- React, ReactDOM
+- Babel
+- Webpack
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
