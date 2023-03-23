@@ -1,17 +1,26 @@
-# Task List
+# ✅ ToDo-List-React
 
-## Demo
+## 🌎 Demo:
 
 
-## Description
+## 📋 Description:
 
-The task list allows you to add new tasks, mark them as done and / or remove them from the list in a really simple way.
 
-## Technologies and conventions used in the project:
+This is my first task List Manager that was bootstrapped with Create React App.
+This application allows user to add, mark tasks as done and remove them from the list
+ in a really simple way.
+
+## 🔎 Preview:
+
+![preview](images/)
+
+<br>
+
+## 💻 Technologies and conventions used in the project:
 
 - HTML
 - CSS
-- JavaScript
+- JavaScript - ES6
 - BEM
 - ES6+ Features
 - Grid
@@ -19,6 +28,8 @@ The task list allows you to add new tasks, mark them as done and / or remove the
 - React, ReactDOM
 - Babel
 - Webpack
+- React.js
+- Node.js
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
