@@ -12,7 +12,7 @@ This application allows user to add, mark tasks as done and remove them from the
 
 ## 🔎 Preview:
 
-![preview](images/)
+![preview](images/og.share.png)
 
 <br>
 
