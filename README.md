@@ -8,7 +8,7 @@ https://pawelmajka.github.io/todo-list-react/
 
 This is my first task List Manager that was bootstrapped with Create React App.
 This application allows user to add, mark tasks as done and remove them from the list
- in a really simple way.
+in a really simple way.
 
 ## 🔎 Preview:
 
