@@ -1,7 +1,7 @@
 # ✅ ToDo-List-React
 
 ## 🌎 Demo:
-https://pawelmajka.github.io/todo-list-react/
+You can visit my website here: [ToDo-List-React](https://pawelmajka.github.io/todo-list-react/)
 
 ## 📋 Description:
 
