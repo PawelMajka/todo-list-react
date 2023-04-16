@@ -10,7 +10,7 @@ const tasks = [
   { id: 2, content: "Wysłać zadanie z M08 w czwartek", done: true },
 ];
 
-const hideDoneTasks = false;
+const hideDone= false;
 
 function App() {
   return (
