@@ -12,7 +12,7 @@ in a really simple way.
 
 ## 🔎 Preview:
 
-![preview](images/og.share.png)
+![preview](images/pageviev.gif)
 
 <br>
 
