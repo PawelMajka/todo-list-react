@@ -1,4 +1,3 @@
-//import "./style.css";
 import {Wrapper, Button} from "./styled";
 
 const Buttons = ({ tasks, hideDone, toggleHideDone, setAllDone}) => (
@@ -7,12 +6,10 @@ const Buttons = ({ tasks, hideDone, toggleHideDone, setAllDone}) => (
       <>
         <Button  
           onClick={toggleHideDone} 
-          //className="buttons__button"
         >
          {hideDone? "Pokaż" : "Ukryj"} ukończone
         </Button>
         <Button
-          //className="buttons__button"
           onClick={setAllDone}
           disabled={tasks.every(({ done }) => done)}
         >
