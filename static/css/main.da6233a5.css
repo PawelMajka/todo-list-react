@@ -1,0 +1,2 @@
+html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}body{background-color:#e6e6e6;font-family:Montserrat,sans-serif}.section{background:#fff;box-shadow:0 0 5px #ddd;margin:10px 0}.section__header{grid-gap:20px;align-items:center;border-bottom:1px solid #ddd;display:grid;grid-template-columns:auto auto;justify-content:space-between;padding:20px}@media(max-width:767px){.section__header{grid-template-columns:1fr}}.section__title{font-size:20px;margin:0}
+/*# sourceMappingURL=main.da6233a5.css.map*/
