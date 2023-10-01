@@ -4,13 +4,14 @@ export const theme = {
         teal: "#008080",
         alto: "#ddd",
         white: "#fff",
-        silver: "ccc",
+        grey: "#ccc",
         gallery: "#eee",
         guardsmanRed: "#CC0000",
         forestGreen: "#228c22",
     },
 
     breakpoint: {
-        mobileMax: 767,
+        mobileMax: "(max-width: 767px)",
+        mobileMaxWidth: "850px",
     },
 };
