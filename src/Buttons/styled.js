@@ -14,7 +14,7 @@ export const Button = styled.button`
 
     @media ${({ theme }) => theme.breakpoint.mobileMax} {
         flex-basis: 100%;
-        margin: 10px;
+        margin: 5px;
     }
 
     &:hover {
