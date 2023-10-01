@@ -7,21 +7,25 @@ export const Wrapper = styled.div`
 
 export const Button = styled.button`
     background: transparent;
-    color: teal;
+    color: ${({ theme }) => theme.color.teal};
     border: none;
     margin: 0 0 0 20px;
     transition: color 0.3s;
 
-    @media(max-width: 767px) {
+    @media ${({ theme }) => theme.breakpoint.mobileMax} {
         flex-basis: 100%;
         margin: 10px;
     }
 
     &:hover {
-        color: hsl(180,100%, 35%);
+        filter: brightness(110%)
+    }
+
+    &:active {
+        filter: brightness(120%)
     }
 
     &:disabled {
-        color: #ccc;
+        color: ${({ theme }) => theme.color.grey};
     }
 `;
